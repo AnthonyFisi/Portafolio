@@ -3,7 +3,7 @@
 #### 2020
 
 I was developed a Clone Uber Eats App 
-In this case I didn't published my app in playstore and appstore but i upload some videos on youtube plataform.
+In this case I didn't published my app in playstore and appstore but i uploaded some videos on youtube plataform.
 
 - https://www.youtube.com/channel/UCo9bGAKYr5zI7b3Vwm5QxSg
 
